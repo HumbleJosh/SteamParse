@@ -1,3 +1,5 @@
+_author_ = "bernardogo"
+
 import re
 
 
